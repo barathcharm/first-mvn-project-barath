@@ -1,4 +1,4 @@
-package com.fssa.msb.day17.solved;
+package com.fssa.barath.day17.solved;
 
 import org.junit.jupiter.api.Assertions;
 
